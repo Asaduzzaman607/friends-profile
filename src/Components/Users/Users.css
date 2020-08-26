@@ -1,0 +1,14 @@
+.user-details{
+    text-align: center;
+    background-color: rgb(11, 86, 121);
+    color: white;
+    width: 60%;
+    margin: auto;
+}
+.userContainer{
+    
+    align-items: center;
+}
+.user-details img{
+    border-radius: 50%;
+}
